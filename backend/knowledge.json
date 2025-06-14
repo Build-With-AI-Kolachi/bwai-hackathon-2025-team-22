@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "title": "Neem Partner Knowledge Base",
+    "version": "2.0",
+    "date": "June 14, 2025"
+  },
+  "sections": [
+    {
+      "title": "Onboarding with Neem",
+      "description": "Guides new business partners through the onboarding process for embedded finance services.",
+      "subsections": [
+        {
+          "title": "Partner Application & Regulatory Compliance (KYC/AML)",
+          "description": "Submission of business application and verification via KYC/AML process.",
+          "resources": {
+            "application_portal": "https://neem.pk/partners/apply-now",
+            "kyc_checklist": "https://neem.pk/docs/regulatory-compliance-guide.pdf",
+            "video_tutorial": "https://www.youtube.com/watch?v=neem-partner-onboarding-tutorial-1"
+          },
+          "team": "Onboarding & Compliance Team",
+          "response_time": "2-3 business days"
+        },
+        {
+          "title": "API Integration Setup & Developer Resources",
+          "description": "Provides API credentials and guides partners in integrating Neem services.",
+          "resources": {
+            "api_docs": "https://neem.pk/docs/api-integration-guide-v2.html",
+            "video_tutorial": "https://www.youtube.com/watch?v=neem-api-quickstart-video-2"
+          },
+          "team": "Technical Support Team",
+          "response_time": "1 business day"
+        },
+        {
+          "title": "Sandbox Environment Access & Testing",
+          "description": "Provides a testing environment to simulate transactions and troubleshoot integrations.",
+          "resources": {
+            "sandbox_access": "https://neem.pk/portal/sandbox-dashboard"
+          },
+          "team": "Technical Support Team",
+          "response_time": "4-6 hours"
+        }
+      ]
+    },
+    {
+      "title": "Utilizing the Neem Partner Portal",
+      "description": "Guide to using the Neem Partner Portal for managing services and monitoring performance.",
+      "subsections": [
+        {
+          "title": "Login & Comprehensive Dashboard Overview",
+          "description": "Overview of dashboard features including transaction volumes and service status.",
+          "resources": {
+            "login": "https://neem.pk/portal/secure-login",
+            "video_tutorial": "https://www.youtube.com/watch?v=neem-dashboard-walkthrough-3"
+          },
+          "team": "Partner Success Team",
+          "response_time": "8 business hours"
+        },
+        {
+          "title": "Advanced Transaction Monitoring & Reporting",
+          "description": "Real-time logs and custom reports for transaction analysis and reconciliation.",
+          "resources": {
+            "reporting_guide": "https://neem.pk/docs/advanced-reporting-guide.pdf"
+          },
+          "team": "Operations Team",
+          "response_time": "1 business day"
+        },
+        {
+          "title": "Managing API Keys, Webhooks & Security Settings",
+          "description": "Manage API keys and configure webhooks for real-time notifications.",
+          "resources": {
+            "video_tutorial": "https://www.youtube.com/watch?v=neem-webhooks-setup-4"
+          },
+          "team": "Technical Support Team",
+          "response_time": "4-6 business hours"
+        },
+        {
+          "title": "Comprehensive Billing & Invoicing Overview",
+          "description": "Access to invoices and billing-related information.",
+          "resources": {
+            "billing_faq": "https://neem.pk/faq/billing-payments"
+          },
+          "team": "Finance Team",
+          "response_time": "1 business day"
+        }
+      ]
+    },
+    {
+      "title": "Common Issues & Troubleshooting",
+      "description": "Provides solutions for frequently encountered issues.",
+      "subsections": [
+        {
+          "title": "Understanding API Error Codes (5xx & 4xx)",
+          "description": "Explanation of API error codes and steps to resolve them.",
+          "resources": {
+            "error_reference": "https://neem.pk/docs/api-error-codes-full.html"
+          },
+          "team": "Technical Support Team",
+          "response_time": "4 hours"
+        },
+        {
+          "title": "Resolving Transaction Delays/Failures",
+          "description": "Guidance for identifying and resolving transaction issues.",
+          "resources": {
+            "troubleshooting_guide": "https://neem.pk/docs/transaction-troubleshooting-flow.pdf"
+          },
+          "team": "Operations Team",
+          "response_time": "1-2 hours"
+        },
+        {
+          "title": "Account Suspension or Access Issues",
+          "description": "Steps to recover or resolve suspended accounts.",
+          "resources": {
+            "contact_form": "https://neem.pk/support/account-recovery"
+          },
+          "team": "Compliance Team",
+          "response_time": "2 hours"
+        }
+      ]
+    },
+    {
+      "title": "General Inquiries & How to Contact Support",
+      "description": "Guidelines for general questions and contacting support.",
+      "subsections": [
+        {
+          "title": "General Information about Neem's Embedded Finance Services",
+          "description": "Overview of Neem\u2019s products including EWA, micro-lending, payments, and wallets.",
+          "resources": {
+            "services_overview": "https://neem.pk/services-overview"
+          },
+          "team": "Sales & Business Development Team",
+          "response_time": "1 business day"
+        },
+        {
+          "title": "Official Support Channels & Escalation",
+          "description": "How to submit tickets and escalate urgent issues.",
+          "resources": {
+            "support_portal": "https://neem.pk/support-tickets",
+            "video_tutorial": "https://www.youtube.com/watch?v=neem-submit-ticket-5"
+          },
+          "team": "General Support Team",
+          "response_time": "1 hour (portal), immediate (urgent WhatsApp)"
+        }
+      ]
+    }
+  ]
+}
